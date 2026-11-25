@@ -1,0 +1,449 @@
+= オンラインショップ | RÊVE DOJO 礼武道場
+en: Online Shop | RÊVE DOJO
+zh: 网上商店 | RÊVE DOJO 礼武道场
+ko: 온라인 숍 | RÊVE DOJO 레이부 도장
+
+= 礼武道場（RÊVE DOJO）オリジナルTシャツのオンラインショップ。クレジットカードでお買い求めいただけます。
+en: Online shop for RÊVE DOJO original T-shirts. Pay by credit card.
+zh: 礼武道场（RÊVE DOJO）原创T恤网上商店。可使用信用卡购买。
+ko: 레이부 도장(RÊVE DOJO) 오리지널 티셔츠 온라인 숍. 신용카드로 구매하실 수 있습니다.
+
+= オンラインショップ — Shop
+en: Online Shop
+zh: 网上商店 — Shop
+ko: 온라인 숍 — Shop
+
+= 道場の外でも、
+en: Outside the dojo, too,
+zh: 即使在道场之外，
+ko: 도장 밖에서도
+
+= 礼武とともに。
+en: with RÊVE.
+zh: 也与礼武同行。
+ko: 레이부와 함께.
+
+= 礼武道場オリジナルのウェアをお届けします。お支払いはクレジットカードまたはコンビニ払いで、安全な決済画面からお手続きいただけます。
+en: Original RÊVE DOJO apparel. Pay by credit card or at a Japanese convenience store through a secure checkout page. Shipping is within Japan only.
+zh: 为您送上礼武道场原创服装。可通过安全的支付页面，使用信用卡或日本便利店付款。仅限日本国内配送。
+ko: 레이부 도장 오리지널 웨어를 보내 드립니다. 안전한 결제 화면에서 신용카드 또는 일본 편의점 결제로 진행하실 수 있습니다. 일본 국내 배송만 가능합니다.
+
+= フタリトーク オリジナルTシャツ
+en: Futari Talk Original T-shirt
+zh: Futari Talk 原创T恤
+ko: 후타리 토크 오리지널 티셔츠
+
+= 税込
+en: tax incl.
+zh: 含税
+ko: 세금 포함
+
+= YouTubeの「フタリトーク」から生まれた、かわいらしいレイヴドージョーオリジナルTシャツです。素材は綿100%。着心地のいいTシャツなので、カジュアルに着こなしてください。
+en: A cute RÊVE DOJO original T-shirt born from our YouTube series Futari Talk. 100% cotton and comfortable to wear, so enjoy it as everyday casual wear.
+zh: 源自YouTube节目“Futari Talk”的可爱RÊVE DOJO原创T恤。100%纯棉，穿着舒适，适合日常休闲搭配。
+ko: YouTube ‘후타리 토크’에서 탄생한 귀여운 RÊVE DOJO 오리지널 티셔츠입니다. 면 100%로 착용감이 좋아 캐주얼하게 입기 좋습니다.
+
+= カラー
+en: Color
+zh: 颜色
+ko: 컬러
+
+= ブラック
+en: Black
+zh: 黑色
+ko: 블랙
+
+= ヘイジーグリーン
+en: Hazy Green
+zh: 雾绿色
+ko: 헤이지 그린
+
+= インディゴ
+en: Indigo
+zh: 靛蓝色
+ko: 인디고
+
+= サイズ
+en: Size
+zh: 尺码
+ko: 사이즈
+
+= 素材
+en: Material
+zh: 材质
+ko: 소재
+
+= 綿100%
+en: 100% cotton
+zh: 100%纯棉
+ko: 면 100%
+
+= 送料：レターパックライト 430円（全国一律・2枚まで）
+en: Shipping: Letter Pack Light ¥430 (flat rate in Japan, up to 2 items)
+zh: 运费：Letter Pack Light 430日元（日本全国统一·最多2件）
+ko: 배송비: 레터팩 라이트 430엔(일본 전국 일률·2장까지)
+
+= 3枚以上をご希望の場合は、
+en: For 3 or more items, please
+zh: 如需购买3件以上，请
+ko: 3장 이상을 원하시면
+
+= ください。
+en: .
+zh: 。
+ko: 주세요.
+
+= 近日販売開始
+en: Coming soon
+zh: 即将开售
+ko: 곧 판매 시작
+
+= 販売開始まで、いましばらくお待ちください。
+en: Sales will open soon. Thank you for your patience.
+zh: 距离开售还有一段时间，敬请期待。
+ko: 판매 시작까지 조금만 기다려 주세요.
+
+= 合宿限定 オリジナルシャツ
+en: Training Camp Limited Shirt
+zh: 集训限定 原创T恤
+ko: 합숙 한정 오리지널 셔츠
+
+= 礼武道場の合宿のためにつくった、限定のオリジナルシャツです。胸に「FC」のロゴ、背中に「FUJI CAMP 02」が入ります。
+en: A limited original shirt made for the RÊVE DOJO training camp, with an FC logo on the chest and FUJI CAMP 02 on the back.
+zh: 为礼武道场集训特别制作的限定原创T恤。胸前印有“FC”标志，背面印有“FUJI CAMP 02”。
+ko: 레이부 도장 합숙을 위해 만든 한정 오리지널 셔츠입니다. 가슴에 ‘FC’ 로고, 등에 ‘FUJI CAMP 02’가 들어갑니다.
+
+= 紺
+en: Navy
+zh: 藏青色
+ko: 네이비
+
+= 紫
+en: Purple
+zh: 紫色
+ko: 퍼플
+
+= 黒
+en: Black
+zh: 黑色
+ko: 블랙
+
+= ピンク
+en: Pink
+zh: 粉色
+ko: 핑크
+
+= ご購入について
+en: How to buy
+zh: 关于购买
+ko: 구매 안내
+
+= お買い物の流れ
+en: How it works
+zh: 购物流程
+ko: 쇼핑 절차
+
+= 「購入する」を押す
+en: Press the Buy button
+zh: 点击“购买”
+ko: ‘구매하기’ 누르기
+
+= 決済画面が開きます。カラー・サイズ・数量をお選びください。
+en: The checkout page opens. Choose color, size and quantity.
+zh: 将打开支付页面。请选择颜色、尺码和数量。
+ko: 결제 화면이 열립니다. 컬러·사이즈·수량을 선택해 주세요.
+
+= お届け先とお支払い方法を入力
+en: Enter delivery address and payment
+zh: 填写收货地址和付款方式
+ko: 배송지와 결제 방법 입력
+
+= クレジットカードまたはコンビニ払いをお選びいただけます。カード情報は決済会社が安全に処理し、当道場には届きません。
+en: Choose credit card or convenience-store payment. Card details are handled securely by the payment company and never reach the dojo.
+zh: 可选择信用卡或便利店付款。信用卡信息由支付公司安全处理，不会传到本道场。
+ko: 신용카드 또는 편의점 결제를 선택할 수 있습니다. 카드 정보는 결제 회사가 안전하게 처리하며 도장에는 전달되지 않습니다.
+
+= お届け
+en: Delivery
+zh: 配送
+ko: 배송
+
+= カードはご購入手続きの完了後、コンビニ払いはお支払いの確認後、5営業日以内にレターパックライトで発送します。
+en: We ship by Letter Pack Light within 5 business days of completed card payment, or of confirming convenience-store payment.
+zh: 信用卡付款在完成购买手续后、便利店付款在确认付款后，5个工作日内以Letter Pack Light寄出。
+ko: 카드는 구매 절차 완료 후, 편의점 결제는 결제 확인 후 5영업일 이내에 레터팩 라이트로 발송합니다.
+
+= 商品についてのお問い合わせ
+en: Questions about products
+zh: 商品咨询
+ko: 상품 문의
+
+= サポーターズクラブ | RÊVE DOJO 礼武道場
+en: Supporters Club | RÊVE DOJO
+zh: 支持者俱乐部 | RÊVE DOJO 礼武道场
+ko: 서포터즈 클럽 | RÊVE DOJO 레이부 도장
+
+= レイヴサポーターズクラブ。江戸川区からプロ卓球選手を目指す礼武道場のこどもたちを応援してください。
+en: RÊVE Supporters Club. Please support the children of RÊVE DOJO as they aim to become professional table tennis players from Edogawa, Tokyo.
+zh: RÊVE支持者俱乐部。请为从江户川区出发、立志成为职业乒乓球选手的礼武道场孩子们加油。
+ko: 레이브 서포터즈 클럽. 에도가와구에서 프로 탁구 선수를 꿈꾸는 레이부 도장 아이들을 응원해 주세요.
+
+= レイヴドージョー サポーターズクラブ — この街からプロ選手を！
+en: RÊVE DOJO Supporters Club: pros from our own town!
+zh: RÊVE DOJO 支持者俱乐部 — 从这座城市走出职业选手！
+ko: 레이브 도조 서포터즈 클럽 — 이 동네에서 프로 선수를!
+
+= サポーター募集中 レイヴドージョー サポーターズクラブ。この街からプロ選手を！ジュニア卓球。江戸川区からプロ卓球選手を目指す少年卓球クラブの選手たち
+en: Now recruiting supporters: RÊVE DOJO Supporters Club. Pros from our own town! Junior table tennis players from Edogawa aiming to turn professional.
+zh: 支持者招募中 RÊVE DOJO 支持者俱乐部。从这座城市走出职业选手！青少年乒乓球。从江户川区出发、立志成为职业乒乓球选手的少年俱乐部队员们
+ko: 서포터 모집 중 레이브 도조 서포터즈 클럽. 이 동네에서 프로 선수를! 주니어 탁구. 에도가와구에서 프로 탁구 선수를 꿈꾸는 소년 탁구 클럽 선수들
+
+= 礼武道場は、江戸川区からプロ卓球選手を目指す少年卓球クラブです。明るく豊かな未来の創造に貢献し、地域に根ざした健全な青少年の育成を目指しています。こどもたちの応援団「レイヴサポーターズクラブ」へのご協力を、ぜひお願いいたします。
+en: RÊVE DOJO is a youth table tennis club in Edogawa, Tokyo, whose players aim to turn professional. We want to help build a bright future and raise healthy young people rooted in the community. Please join the RÊVE Supporters Club, the children’s cheering squad.
+zh: 礼武道场是一家从江户川区出发、立志培养职业乒乓球选手的少年乒乓球俱乐部。我们致力于为创造光明富足的未来做出贡献，培养扎根于地区的健全青少年。恳请您加入孩子们的啦啦队“RÊVE支持者俱乐部”。
+ko: 레이부 도장은 에도가와구에서 프로 탁구 선수를 꿈꾸는 소년 탁구 클럽입니다. 밝고 풍요로운 미래를 만드는 데 기여하고, 지역에 뿌리내린 건강한 청소년 육성을 목표로 합니다. 아이들의 응원단 ‘레이브 서포터즈 클럽’에 꼭 함께해 주세요.
+
+= 応援のかたちを見る
+en: See ways to support
+zh: 查看支持方式
+ko: 응원 방법 보기
+
+= 選手たちが挑む舞台
+en: Where our players compete
+zh: 选手们挑战的舞台
+ko: 선수들이 도전하는 무대
+
+= 主な試合
+en: Key tournaments
+zh: 主要比赛
+ko: 주요 시합
+
+= 皆さまのご支援は、選手たちが全国・世界の舞台へ挑戦する力になります。
+en: Your support gives our players the strength to take on national and international stages.
+zh: 您的支持将成为选手们挑战全国乃至世界舞台的力量。
+ko: 여러분의 지원은 선수들이 전국·세계 무대에 도전하는 힘이 됩니다.
+
+= これまでの大会実績を見る →
+en: See past results →
+zh: 查看以往比赛成绩 →
+ko: 지금까지의 대회 실적 보기 →
+
+= 全国ホープス
+en: National Hopes
+zh: 全国Hopes
+ko: 전국 호프스
+
+= 全国ホープス選抜
+en: National Hopes Selection
+zh: 全国Hopes选拔
+ko: 전국 호프스 선발
+
+= 大阪オープン
+en: Osaka Open
+zh: 大阪公开赛
+ko: 오사카 오픈
+
+= 伊丹オープン
+en: Itami Open
+zh: 伊丹公开赛
+ko: 이타미 오픈
+
+= 名古屋オープン
+en: Nagoya Open
+zh: 名古屋公开赛
+ko: 나고야 오픈
+
+= 東京オープン
+en: Tokyo Open
+zh: 东京公开赛
+ko: 도쿄 오픈
+
+= 卓球ワールドチャレンジ
+en: Table Tennis World Challenge
+zh: 乒乓球世界挑战赛
+ko: 탁구 월드 챌린지
+
+= 関東ホープス
+en: Kanto Hopes
+zh: 关东Hopes
+ko: 간토 호프스
+
+= アスリートパスウェイ
+en: Athlete Pathway
+zh: 运动员培养路径
+ko: 애슬리트 패스웨이
+
+= 東アジアホープス日本代表選考会
+en: East Asia Hopes Japan team selection
+zh: 东亚Hopes日本代表选拔赛
+ko: 동아시아 호프스 일본 대표 선발전
+
+= ナショナルチーム選考会
+en: National team selection
+zh: 国家队选拔赛
+ko: 국가대표팀 선발전
+
+= サポーター特典
+en: Supporter rewards
+zh: 支持者回馈
+ko: 서포터 특전
+
+= 応援のかたち
+en: Ways to support
+zh: 支持方式
+ko: 응원 방법
+
+= ご支援いただいた方には、感謝の気持ちを込めて返礼品をお贈りします。
+en: As a thank-you, supporters receive the rewards below.
+zh: 为表感谢，我们将向支持者赠送回礼。
+ko: 지원해 주신 분께는 감사의 마음을 담아 답례품을 보내 드립니다.
+
+= 返礼品
+en: Reward
+zh: 回礼
+ko: 답례품
+
+= 原田監督レッスン 6,600円 → 6,000円
+en: Coach Harada lessons ¥6,600 → ¥6,000
+zh: 原田主教练私教课 6,600日元 → 6,000日元
+ko: 하라다 감독 레슨 6,600엔 → 6,000엔
+
+= 1回600円引き／2027年3月末まで
+en: ¥600 off per lesson / until end of March 2027
+zh: 每次优惠600日元／至2027年3月底
+ko: 1회 600엔 할인 / 2027년 3월 말까지
+
+= 近日受付開始
+en: Opening soon
+zh: 即将开始受理
+ko: 곧 접수 시작
+
+= 原田監督 個人レッスン 1回無料券
+en: One free private lesson with Coach Harada
+zh: 原田主教练 私教课 1次免费券
+ko: 하라다 감독 개인 레슨 1회 무료권
+
+= 2027年3月末まで有効
+en: Valid until end of March 2027
+zh: 有效期至2027年3月底
+ko: 2027년 3월 말까지 유효
+
+= 教室 1回無料券
+en: One free class
+zh: 课程 1次免费券
+ko: 교실 1회 무료권
+
+= ご支援についてのご質問は、
+en: For questions about supporting us, use the
+zh: 关于支持的疑问，请通过
+ko: 지원에 관한 질문은
+
+= またはお電話（070-8958-5090）でお気軽にどうぞ。
+en: or call 070-8958-5090.
+zh: 或致电（070-8958-5090）随时咨询。
+ko: 또는 전화(070-8958-5090)로 부담 없이 문의해 주세요.
+
+= 特定商取引法に基づく表記 | RÊVE DOJO 礼武道場
+en: Legal Notice | RÊVE DOJO
+zh: 基于特定商业交易法的标示 | RÊVE DOJO 礼武道场
+ko: 특정상거래법에 따른 표기 | RÊVE DOJO 레이부 도장
+
+= 礼武道場オンラインショップの特定商取引法に基づく表記。
+en: Legal notice for the RÊVE DOJO online shop under the Act on Specified Commercial Transactions.
+zh: 礼武道场网上商店基于特定商业交易法的标示。
+ko: 레이부 도장 온라인 숍의 특정상거래법에 따른 표기.
+
+= 販売業者
+en: Seller
+zh: 销售商
+ko: 판매업자
+
+= 運営統括責任者
+en: Responsible manager
+zh: 运营总负责人
+ko: 운영 총괄 책임자
+
+= 代表取締役 原田隆雅
+en: Takamasa Harada, CEO
+zh: 代表董事 原田隆雅
+ko: 대표이사 하라다 다카마사
+
+= 所在地
+en: Address
+zh: 所在地
+ko: 소재지
+
+= 電話番号
+en: Phone
+zh: 电话号码
+ko: 전화번호
+
+= 10:00〜18:00（ご注文は24時間受け付けています）
+en: 10:00–18:00 (orders accepted 24 hours)
+zh: 10:00–18:00（订单24小时受理）
+ko: 10:00~18:00(주문은 24시간 접수)
+
+= 販売価格
+en: Price
+zh: 销售价格
+ko: 판매 가격
+
+= 各商品ページに記載の価格（税込）
+en: As shown on each product page (tax included)
+zh: 以各商品页面标示的价格为准（含税）
+ko: 각 상품 페이지에 기재된 가격(세금 포함)
+
+= 商品代金以外の必要料金
+en: Additional charges
+zh: 商品价款以外的费用
+ko: 상품 대금 이외의 필요 요금
+
+= 送料：レターパックライト 430円（全国一律）。1回のご注文につき2枚までお送りできます。3枚以上をご希望の場合はお問い合わせください。送料を個別にご案内します。インターネット接続の通信料はお客様のご負担となります。
+en: Shipping: Letter Pack Light ¥430 (flat rate within Japan). Up to 2 items per order. For 3 or more, contact us and we will quote shipping. Internet connection costs are borne by the customer.
+zh: 运费：Letter Pack Light 430日元（日本全国统一）。每笔订单最多可寄送2件。如需3件以上，请与我们联系，我们将另行告知运费。网络通信费由顾客承担。
+ko: 배송비: 레터팩 라이트 430엔(일본 전국 일률). 1회 주문당 2장까지 보낼 수 있습니다. 3장 이상을 원하시면 문의해 주세요. 배송비를 개별 안내해 드립니다. 인터넷 접속 통신료는 고객 부담입니다.
+
+= お支払い方法
+en: Payment methods
+zh: 付款方式
+ko: 결제 방법
+
+= クレジットカード、コンビニ払い（ファミリーマート・ローソン・ミニストップ・セイコーマート）
+en: Credit card; convenience-store payment (FamilyMart, Lawson, Ministop, Seicomart)
+zh: 信用卡、便利店付款（全家·罗森·迷你岛·Seicomart）
+ko: 신용카드, 편의점 결제(패밀리마트·로손·미니스톱·세이코마트)
+
+= お支払い時期
+en: Payment timing
+zh: 付款时间
+ko: 결제 시기
+
+= クレジットカード：ご利用のカード会社の引き落とし日／コンビニ払い：ご注文後、決済画面に表示される支払期限までに店頭でお支払いください。
+en: Credit card: on your card company’s billing date. Convenience store: pay at the store by the deadline shown on the checkout page after ordering.
+zh: 信用卡：以发卡公司的扣款日为准／便利店付款：下单后，请在支付页面显示的付款期限前到店付款。
+ko: 신용카드: 이용하시는 카드사의 결제일 / 편의점 결제: 주문 후 결제 화면에 표시되는 지불 기한까지 매장에서 결제해 주세요.
+
+= 商品の引渡時期
+en: Delivery timing
+zh: 商品交付时间
+ko: 상품 인도 시기
+
+= クレジットカードはご購入手続きの完了後、コンビニ払いはお支払いの確認後、5営業日以内に発送します。在庫切れの場合は、入荷後の発送となります。郵便事情によりお届けが遅れる場合があります。
+en: Shipped within 5 business days of completed card payment, or of confirming convenience-store payment. Out-of-stock items ship once restocked. Delivery may be delayed by postal conditions.
+zh: 信用卡付款在完成购买手续后、便利店付款在确认付款后，5个工作日内发货。如遇缺货，将在到货后发货。因邮政情况可能出现延迟。
+ko: 신용카드는 구매 절차 완료 후, 편의점 결제는 결제 확인 후 5영업일 이내에 발송합니다. 품절 시에는 입고 후 발송합니다. 우편 사정으로 배송이 늦어질 수 있습니다.
+
+= 返品・交換
+en: Returns and exchanges
+zh: 退货·换货
+ko: 반품·교환
+
+= ご注文と異なる商品が届いた場合、または商品に瑕疵があった場合に限り、商品到着後8日以内にご連絡ください。それ以外の返品・交換はお受けしておりません。返品の送料はお客様のご負担となります。
+en: Only if you receive an item different from your order, or a defective item, please contact us within 8 days of delivery. We do not accept other returns or exchanges. Return shipping is paid by the customer.
+zh: 仅限收到的商品与订单不符或商品有瑕疵时，请在收货后8日内与我们联系。除此之外不接受退换货。退货运费由顾客承担。
+ko: 주문과 다른 상품이 도착한 경우 또는 상품에 하자가 있는 경우에 한해 상품 도착 후 8일 이내에 연락해 주세요. 그 외의 반품·교환은 받지 않습니다. 반품 배송비는 고객 부담입니다.
+
+= ← オンラインショップへ戻る
+en: ← Back to the online shop
+zh: ← 返回网上商店
+ko: ← 온라인 숍으로 돌아가기

@@ -1,0 +1,664 @@
+= Backspin Tokyo | バックスピントーキョー — 西船橋 卓球スクール＆ブリティッシュ卓球BAR
+en: Backspin Tokyo | Table Tennis School and British Ping Pong Bar in Nishi-Funabashi
+zh: Backspin Tokyo | 西船桥 乒乓球学校＆英式乒乓球吧
+ko: Backspin Tokyo | 니시후나바시 탁구 스쿨 & 브리티시 탁구 BAR
+
+= 予約する
+en: Book
+zh: 预约
+ko: 예약
+
+= Day &amp; Night — 大人の指導と卓球バー
+en: Day &amp; Night — Adult lessons and ping pong bar
+zh: Day &amp; Night — 成人教学与乒乓球吧
+ko: Day &amp; Night — 성인 레슨과 탁구 바
+
+= School &amp; Rental — コース・料金
+en: School &amp; Rental — Courses and prices
+zh: School &amp; Rental — 课程与费用
+ko: School &amp; Rental — 코스·요금
+
+= Ping Pong Bar — お酒と光る卓球
+en: Ping Pong Bar — Drinks and glow table tennis
+zh: Ping Pong Bar — 美酒与发光乒乓球
+ko: Ping Pong Bar — 술과 빛나는 탁구
+
+= Instructors — インストラクター
+en: Instructors
+zh: Instructors — 教练
+ko: Instructors — 강사
+
+= YouTube — 礼武卓球チャンネル
+en: YouTube — RÊVE Table Tennis Channel
+zh: YouTube — 礼武乒乓球频道
+ko: YouTube — 레이부 탁구 채널
+
+= Shop — オンラインショップ
+en: Shop — Online shop
+zh: Shop — 网上商店
+ko: Shop — 온라인 숍
+
+= Reserve — ご予約・キャンセル規定
+en: Reserve — Booking and cancellation policy
+zh: Reserve — 预约·取消规定
+ko: Reserve — 예약·취소 규정
+
+= Access — 西船橋アクセス
+en: Access — Getting to Nishi-Funabashi
+zh: Access — 西船桥交通
+ko: Access — 니시후나바시 오시는 길
+
+= Partner — 礼武卓球道場（RÊVE DOJO）↗
+en: Partner — RÊVE DOJO ↗
+zh: Partner — 礼武乒乓球道场（RÊVE DOJO）↗
+ko: Partner — 레이부 탁구 도장(RÊVE DOJO) ↗
+
+= ロンドンの卓球バーのように楽しむ、西船橋の大人空間。
+en: A grown-up space in Nishi-Funabashi, like a London ping pong bar.
+zh: 像伦敦乒乓球吧一样尽情享受的西船桥成人空间。
+ko: 런던의 탁구 바처럼 즐기는 니시후나바시의 어른 공간.
+
+= 赤レンガと木の温もりに包まれた海外パブのような空間。昼は60〜70代の大人も真剣に学べる本格的な卓球スクール＆健康サークル、夜はグラスを片手に笑い合う「卓球BAR」へ。
+en: A space like an overseas pub, wrapped in red brick and warm wood. By day, a serious table tennis school and wellness circle where adults, including people in their 60s and 70s, really learn. By night, a ping pong bar where you laugh together, glass in hand.
+zh: 被红砖与木质温暖包围、宛如海外酒吧的空间。白天是60至70多岁的成年人也能认真学习的正规乒乓球学校＆健康社团，晚上则变身为举杯欢笑的“乒乓球吧”。
+ko: 붉은 벽돌과 나무의 온기에 둘러싸인 해외 펍 같은 공간. 낮에는 60~70대 어른도 진지하게 배울 수 있는 본격 탁구 스쿨 & 건강 서클, 밤에는 잔을 들고 함께 웃는 ‘탁구 BAR’로.
+
+= レッスン・卓球BARを予約
+en: Book a lesson or the bar
+zh: 预约课程·乒乓球吧
+ko: 레슨·탁구 BAR 예약
+
+= 昼と夜のスタイルを見る
+en: See day and night
+zh: 查看白天与夜晚的风格
+ko: 낮과 밤의 스타일 보기
+
+= 西船橋 徒歩5分
+en: 5 min walk from Nishi-Funabashi
+zh: 距西船桥步行5分钟
+ko: 니시후나바시 도보 5분
+
+= 京成西船駅からは徒歩2〜3分
+en: 2–3 min from Keisei-Nishifuna Station
+zh: 距京成西船站步行2–3分钟
+ko: 게이세이니시후나역에서 도보 2~3분
+
+= 卓球台 2台 (62㎡)
+en: 2 tables (62 m²)
+zh: 乒乓球台 2张（62㎡）
+ko: 탁구대 2대 (62㎡)
+
+= 最大30名まで貸切・パーティーOK
+en: Private hire and parties up to 30
+zh: 最多30人可包场·办派对
+ko: 최대 30명까지 대관·파티 OK
+
+= 大人の本格指導
+en: Serious coaching for adults
+zh: 面向成人的正规指导
+ko: 성인 본격 지도
+
+= 初心者・シニア世代も丁寧に上達
+en: Beginners and seniors improve with care
+zh: 初学者与长者也能稳步进步
+ko: 초보자·시니어도 차근차근 실력 향상
+
+= 卓球BAR &amp; 光る卓球
+en: Ping Pong Bar &amp; Glow Table Tennis
+zh: 乒乓球吧 &amp; 发光乒乓球
+ko: 탁구 BAR &amp; 빛나는 탁구
+
+= お酒を飲みながら楽しいサークルも
+en: Fun social play over drinks
+zh: 也有边喝酒边打球的欢乐社团
+ko: 술 마시며 즐기는 서클도
+
+= 昼は「大人の真面目なレッスン」、夜は「海外風の卓球バー」。
+en: Serious adult lessons by day, an overseas-style ping pong bar by night.
+zh: 白天是“成人的认真课程”，晚上是“海外风格的乒乓球吧”。
+ko: 낮에는 ‘어른의 진지한 레슨’, 밤에는 ‘해외풍 탁구 바’.
+
+= バックスピントーキョーは、イギリスの卓球バーのような居心地のいい海外テイストの空間で、しっかり上達したい大人のためのレッスンと、お酒を飲みながら盛り上がるバー営業の両方を大切にしています。
+en: Backspin Tokyo is a cosy, overseas-flavoured space like a British ping pong bar. We care equally about lessons for adults who want to really improve and bar nights where everyone has fun over drinks.
+zh: Backspin Tokyo 是一个像英国乒乓球吧般舒适、充满海外风情的空间。我们同样重视为想要切实进步的成年人开设的课程，以及边喝酒边尽情欢乐的酒吧营业。
+ko: 백스핀 도쿄는 영국 탁구 바처럼 아늑한 해외 분위기의 공간에서, 제대로 실력을 키우고 싶은 어른을 위한 레슨과 술을 마시며 즐기는 바 영업을 모두 소중히 합니다.
+
+= 60代〜70代の大人の生徒へ丁寧に指導する昼の卓球レッスン
+en: Daytime lesson with careful coaching for students in their 60s and 70s
+zh: 白天为60至70多岁成人学员细心指导的乒乓球课
+ko: 60~70대 성인 수강생을 정성껏 지도하는 낮 탁구 레슨
+
+= 大人世代のための、丁寧で本格的な卓球指導
+en: Careful, serious table tennis coaching for adults
+zh: 为成年人提供细致而正规的乒乓球指导
+ko: 어른 세대를 위한 정성스럽고 본격적인 탁구 지도
+
+= 60代・70代のアクティブな大人世代から未経験者まで、身体の使い方やフォームを一人ひとりに合わせて真面目に指導。健康づくりとしてのサークル活動から、試合で勝つための戦術レッスンまで幅広く対応します。
+en: From active players in their 60s and 70s to complete beginners, we coach movement and form to suit each person. We cover everything from wellness circles to tactical lessons for winning matches.
+zh: 从活跃的60、70多岁成年人到零基础者，根据每个人的情况认真指导身体运用与动作。从以健康为目的的社团活动，到赢得比赛的战术课程，内容广泛。
+ko: 60~70대 활동적인 어른부터 미경험자까지, 몸 쓰는 법과 폼을 한 사람 한 사람에 맞춰 성실하게 지도합니다. 건강을 위한 서클 활동부터 시합에서 이기기 위한 전술 레슨까지 폭넓게 대응합니다.
+
+= 礼武卓球道場 業務提携 ↗
+en: Partner of RÊVE DOJO ↗
+zh: 礼武乒乓球道场 业务合作 ↗
+ko: 레이부 탁구 도장 업무 제휴 ↗
+
+= スクール・料金を見る →
+en: See school and prices →
+zh: 查看课程与费用 →
+ko: 스쿨·요금 보기 →
+
+= 大人の男女がお酒を飲みながら卓球を楽しむ夜の卓球バー
+en: Adults enjoying table tennis over drinks at the night bar
+zh: 成年男女边喝酒边打乒乓球的夜间乒乓球吧
+ko: 성인 남녀가 술을 마시며 탁구를 즐기는 밤의 탁구 바
+
+= お酒と音楽、笑顔が交わる大人の卓球BAR
+en: A grown-up ping pong bar of drinks, music and smiles
+zh: 美酒、音乐与笑容交汇的成人乒乓球吧
+ko: 술과 음악, 웃음이 어우러지는 어른의 탁구 BAR
+
+= 仕事帰りや週末の夜は、ビールやハイボール、カクテルを片手に楽しめる卓球BARへ。大人の男女が集うサークル活動や、忘年会・新年会・二次会の貸切パーティーにもぴったりな海外パブ風の雰囲気です。
+en: After work or on weekend nights, come to the ping pong bar with a beer, highball or cocktail in hand. The overseas pub atmosphere is perfect for social clubs and for private parties: year-end, New Year and after-parties.
+zh: 下班后或周末夜晚，来乒乓球吧举起啤酒、Highball或鸡尾酒尽情享受吧。海外酒吧风格的氛围，非常适合成年男女的社团活动，以及忘年会、新年会、续摊等包场派对。
+ko: 퇴근 후나 주말 밤에는 맥주, 하이볼, 칵테일을 들고 즐기는 탁구 BAR로. 어른 남녀가 모이는 서클 활동이나 송년회·신년회·2차 대관 파티에도 딱 맞는 해외 펍 분위기입니다.
+
+= 最大30名まで貸切・撮影可
+en: Private hire and filming for up to 30
+zh: 最多30人可包场·拍摄
+ko: 최대 30명까지 대관·촬영 가능
+
+= 卓球BARの詳細を見る →
+en: More about the bar →
+zh: 查看乒乓球吧详情 →
+ko: 탁구 BAR 자세히 보기 →
+
+= コース・料金メニュー
+en: Courses and prices
+zh: 课程与费用
+ko: 코스·요금 메뉴
+
+= 赤レンガの空間で、
+en: In a red-brick room,
+zh: 在红砖空间里，
+ko: 붉은 벽돌 공간에서
+
+= 光る卓球
+en: glow table tennis
+zh: 发光乒乓球
+ko: 빛나는 탁구
+
+= ＆バータイム。
+en: and bar time.
+zh: ＆酒吧时光。
+ko: & 바 타임.
+
+= バックスピントーキョーでは、照明を落として楽しめる「光る卓球」も体験可能。お酒を飲みながら気軽にラリーを楽しんだり、仲間と貸切パーティーを開いたり、日本の従来の卓球場とは一味違う海外スタイルを満喫できます。
+en: At Backspin Tokyo you can also try glow-in-the-dark table tennis with the lights down. Rally casually over drinks or throw a private party with friends: an overseas style that is a world away from the traditional Japanese table tennis hall.
+zh: 在Backspin Tokyo，还可以体验关灯后尽情享受的“发光乒乓球”。边喝酒边轻松对打，或与朋友举办包场派对，尽享与日本传统乒乓球馆截然不同的海外风格。
+ko: 백스핀 도쿄에서는 조명을 낮추고 즐기는 ‘빛나는 탁구’도 체험할 수 있습니다. 술을 마시며 가볍게 랠리를 즐기거나 친구들과 대관 파티를 열거나, 일본의 기존 탁구장과는 색다른 해외 스타일을 만끽할 수 있습니다.
+
+= 赤レンガ×ウッドの海外パブ風スタジオ
+en: Overseas pub-style studio in red brick and wood
+zh: 红砖×木质的海外酒吧风格工作室
+ko: 붉은 벽돌×우드의 해외 펍 스타일 스튜디오
+
+= 忘年会・新年会・二次会・交流サークル
+en: Year-end and New Year parties, after-parties, social clubs
+zh: 忘年会·新年会·续摊·交流社团
+ko: 송년회·신년회·2차·교류 서클
+
+= 商用撮影・YouTube・ドラマロケ利用
+en: Commercial shoots, YouTube and TV drama locations
+zh: 商业拍摄·YouTube·电视剧取景
+ko: 상업 촬영·YouTube·드라마 로케 이용
+
+= お問い合わせ対応
+en: Contact us
+zh: 欢迎咨询
+ko: 문의 대응
+
+= 卓球BAR・貸切を予約する →
+en: Book the bar or private hire →
+zh: 预约乒乓球吧·包场 →
+ko: 탁구 BAR·대관 예약 →
+
+= バックスピントーキョー 光る卓球
+en: Glow table tennis at Backspin Tokyo
+zh: Backspin Tokyo 发光乒乓球
+ko: 백스핀 도쿄 빛나는 탁구
+
+= 暗闇に浮かぶ「光る卓球」体験
+en: Glow table tennis in the dark
+zh: 在黑暗中闪耀的“发光乒乓球”体验
+ko: 어둠 속에 떠오르는 ‘빛나는 탁구’ 체험
+
+= バックスピントーキョー 店内
+en: Inside Backspin Tokyo
+zh: Backspin Tokyo 店内
+ko: 백스핀 도쿄 매장 내부
+
+= 赤レンガ＆ウッドのリアル空間
+en: A real space of red brick and wood
+zh: 红砖＆木质的真实空间
+ko: 붉은 벽돌 & 우드의 리얼 공간
+
+= 指導インストラクター
+en: Our instructors
+zh: 指导教练
+ko: 지도 강사
+
+= 元実業団選手や実績あるコーチ陣が、初心者から経験者まで「楽しく、確実に」上達をサポートします。
+en: Former corporate-league players and proven coaches help beginners and experienced players improve in a fun and reliable way.
+zh: 前企业联赛选手与经验丰富的教练团队，帮助从初学者到有经验者“快乐而切实地”进步。
+ko: 전 실업팀 선수와 실적 있는 코치진이 초보자부터 경험자까지 ‘즐겁고 확실하게’ 실력 향상을 지원합니다.
+
+= 原田 奈津子 店長
+en: Natsuko Harada, Manager
+zh: 原田 奈津子 店长
+ko: 하라다 나쓰코 점장
+
+= 店長 / Instructor
+en: Manager / Instructor
+zh: 店长 / Instructor
+ko: 점장 / Instructor
+
+= ¥5,500（50分）
+en: ¥5,500 (50 min)
+zh: ¥5,500（50分钟）
+ko: ¥5,500(50분)
+
+= 右シェークバック異質型
+en: Right-handed shakehand, special rubber on backhand
+zh: 右手横拍 反手异质型
+ko: 오른손 셰이크 백 이질형
+
+= 得意な技は「短くブロックすること」。バックに変化系表ソフトを使用し、異質ラバーの特徴を活かしたプレースタイル。異質ラバーを使っている方、苦手な方のお悩みはお任せください。
+en: Her specialty is the short block. With short pips on the backhand, she plays a style that makes the most of special rubbers. If you use special rubbers, or struggle against them, she is the coach for you.
+zh: 擅长“短挡”。反手使用变化型正胶，打法充分发挥异质胶皮的特点。使用异质胶皮或不擅长应对异质胶皮的烦恼，请交给她。
+ko: 특기는 ‘짧게 블록하기’. 백에 변화계 표소프트를 사용해 이질 러버의 특징을 살린 플레이 스타일. 이질 러버를 쓰는 분, 이질 러버가 어려운 분의 고민은 맡겨 주세요.
+
+= 奈津子店長を予約する →
+en: Book Natsuko →
+zh: 预约奈津子店长 →
+ko: 나쓰코 점장 예약 →
+
+= ¥4,400（50分）
+en: ¥4,400 (50 min)
+zh: ¥4,400（50分钟）
+ko: ¥4,400(50분)
+
+= ヨッシー
+en: Yossy
+zh: Yossy
+ko: 요시
+
+= 右シェークドライブ型
+en: Right-handed shakehand, topspin attacker
+zh: 右手横拍 弧圈型
+ko: 오른손 셰이크 드라이브형
+
+= センス良いテクニックは必見。気さくで明るく喋りやすいキャラクターなので、初めての方やシニア世代の方もリラックスして楽しく上達できます。
+en: His stylish technique is a must-see. Friendly, cheerful and easy to talk to, so first-timers and seniors can relax and enjoy improving.
+zh: 极具天赋的技术值得一看。性格随和开朗、容易交流，初次来访者和长者也能放松愉快地进步。
+ko: 감각 있는 테크닉은 꼭 볼 만합니다. 소탈하고 밝아 말 걸기 쉬운 캐릭터라 처음 오신 분이나 시니어 세대도 편하게 즐기며 실력을 키울 수 있습니다.
+
+= 出身：茨城 東海クラブ → 岩瀬日大高 → 千葉商科大
+en: Background: Tokai Club (Ibaraki) → Iwase Nichidai High School → Chiba University of Commerce
+zh: 经历：茨城 东海俱乐部 → 岩濑日大高中 → 千叶商科大学
+ko: 출신: 이바라키 도카이 클럽 → 이와세 니치다이 고교 → 지바 상과대학
+
+= 実績：全日本クラブ選手権優勝（小学）／茨城県団体・単・複優勝、インターハイ団体ベスト16
+en: Results: All Japan Club Championships winner (elementary) / Ibaraki team, singles and doubles champion, Inter-High team top 16
+zh: 成绩：全日本俱乐部锦标赛冠军（小学）／茨城县团体·单打·双打冠军，高中总体赛团体前十六强
+ko: 실적: 전일본 클럽 선수권 우승(초등) / 이바라키현 단체·단식·복식 우승, 인터하이 단체 베스트 16
+
+= ヨッシーを予約する →
+en: Book Yossy →
+zh: 预约Yossy →
+ko: 요시 예약 →
+
+= 礼武卓球チャンネル
+en: RÊVE Table Tennis Channel
+zh: 礼武乒乓球频道
+ko: 레이부 탁구 채널
+
+= 提携する礼武卓球道場の公式YouTubeチャンネルです。サーブや技術のコツ、練習の様子を動画でお届けしています。
+en: The official YouTube channel of our partner RÊVE DOJO, with serve tips, technique advice and practice footage.
+zh: 合作伙伴礼武乒乓球道场的官方YouTube频道。通过视频分享发球与技术要领以及训练情况。
+ko: 제휴처인 레이부 탁구 도장의 공식 YouTube 채널입니다. 서브와 기술 요령, 연습 모습을 영상으로 전합니다.
+
+= チャンネル登録する
+en: Subscribe
+zh: 订阅频道
+ko: 채널 구독
+
+= すべての動画を見る
+en: Watch all videos
+zh: 查看全部视频
+ko: 모든 동영상 보기
+
+= 動画が表示されない場合は、YouTubeでご覧ください。
+en: If the videos do not appear, please watch them on YouTube.
+zh: 如视频无法显示，请在YouTube上观看。
+ko: 동영상이 표시되지 않으면 YouTube에서 시청해 주세요.
+
+= YouTubeで見る
+en: Watch on YouTube
+zh: 在YouTube观看
+ko: YouTube에서 보기
+
+= 礼武卓球チャンネル 最新動画
+en: RÊVE Table Tennis Channel latest videos
+zh: 礼武乒乓球频道 最新视频
+ko: 레이부 탁구 채널 최신 동영상
+
+= オンラインショップ
+en: Online Shop
+zh: 网上商店
+ko: 온라인 숍
+
+= 礼武卓球道場と共通のオンラインショップです。オリジナルTシャツを、クレジットカードまたはコンビニ払いでお買い求めいただけます。
+en: Our online shop, shared with RÊVE DOJO. Buy original T-shirts by credit card or Japanese convenience-store payment.
+zh: 与礼武乒乓球道场共用的网上商店。可使用信用卡或日本便利店付款购买原创T恤。
+ko: 레이부 탁구 도장과 공통인 온라인 숍입니다. 오리지널 티셔츠를 신용카드 또는 일본 편의점 결제로 구매하실 수 있습니다.
+
+= ショップを見る ↗
+en: Visit the shop ↗
+zh: 查看商店 ↗
+ko: 숍 보기 ↗
+
+= フタリトーク オリジナルTシャツ
+en: Futari Talk Original T-shirt
+zh: Futari Talk 原创T恤
+ko: 후타리 토크 오리지널 티셔츠
+
+= 税込
+en: tax incl.
+zh: 含税
+ko: 세금 포함
+
+= 綿100%・3色・S〜XL
+en: 100% cotton · 3 colors · S–XL
+zh: 100%纯棉·3色·S–XL
+ko: 면 100%·3색·S~XL
+
+= 商品を見る →
+en: View item →
+zh: 查看商品 →
+ko: 상품 보기 →
+
+= 合宿限定 オリジナルシャツ
+en: Training Camp Limited Shirt
+zh: 集训限定 原创T恤
+ko: 합숙 한정 오리지널 셔츠
+
+= 4色
+en: 4 colors
+zh: 4色
+ko: 4색
+
+= ご予約・お問い合わせ
+en: Booking and enquiries
+zh: 预约·咨询
+ko: 예약·문의
+
+= プライベートレッスン・少人数教室・レンタルテーブル・卓球BARのご予約は、専用予約サイトより承っております。インストラクターの空き時間はレンタルテーブルとしてもご利用いただけます。
+en: Private lessons, small-group classes, table rental and the ping pong bar can all be booked on our booking site (in Japanese). When instructors are free, the tables are available to rent.
+zh: 私教课、小班课程、球台租赁及乒乓球吧的预约，均通过专用预约网站受理（日语页面）。教练空闲时段也可作为租赁球台使用。
+ko: 프라이빗 레슨·소수 정원 교실·대여 탁구대·탁구 BAR 예약은 전용 예약 사이트에서 받습니다(일본어 페이지). 강사가 비는 시간에는 대여 탁구대로도 이용하실 수 있습니다.
+
+= 公式予約サイトへ進む
+en: Go to the booking site
+zh: 前往官方预约网站
+ko: 공식 예약 사이트로
+
+= 貸切・撮影・お問い合わせ（メール）
+en: Private hire, filming, enquiries (email)
+zh: 包场·拍摄·咨询（邮件）
+ko: 대관·촬영·문의(메일)
+
+= お電話でのお問い合わせ：
+en: Phone enquiries:
+zh: 电话咨询：
+ko: 전화 문의:
+
+= Cancel Policy — キャンセル規定
+en: Cancellation Policy
+zh: Cancel Policy — 取消规定
+ko: Cancel Policy — 취소 규정
+
+= ご予約日の2日前 18:00〜0:00
+en: 2 days before, 18:00–midnight
+zh: 预约日前2天 18:00–0:00
+ko: 예약일 2일 전 18:00~0:00
+
+= キャンセル料 20%
+en: 20% cancellation fee
+zh: 取消费 20%
+ko: 취소료 20%
+
+= 前日 0:00〜12:00
+en: Day before, 0:00–12:00
+zh: 前一天 0:00–12:00
+ko: 전날 0:00~12:00
+
+= キャンセル料 50%
+en: 50% cancellation fee
+zh: 取消费 50%
+ko: 취소료 50%
+
+= 前日 12:00以降
+en: Day before, after 12:00
+zh: 前一天 12:00以后
+ko: 전날 12:00 이후
+
+= キャンセル料 100%
+en: 100% cancellation fee
+zh: 取消费 100%
+ko: 취소료 100%
+
+= 公式LINE
+en: Official LINE
+zh: 官方LINE
+ko: 공식 LINE
+
+= 最新のお知らせは公式LINEで
+en: Latest news on our official LINE
+zh: 最新消息请看官方LINE
+ko: 최신 소식은 공식 LINE에서
+
+= バックスピントーキョーと礼武卓球道場の共通の公式LINEです。友だち追加をして、教室やイベントのお知らせをお受け取りください。
+en: The official LINE account shared by Backspin Tokyo and RÊVE DOJO. Add us as a friend to get class and event news.
+zh: Backspin Tokyo 与礼武乒乓球道场共用的官方LINE。添加好友即可接收课程与活动通知。
+ko: 백스핀 도쿄와 레이부 탁구 도장 공통의 공식 LINE입니다. 친구 추가하고 교실과 이벤트 소식을 받아 보세요.
+
+= LINEで友だち追加する
+en: Add us on LINE
+zh: 在LINE添加好友
+ko: LINE 친구 추가
+
+= 公式LINE 友だち追加用QRコード
+en: QR code to add our official LINE account
+zh: 官方LINE 添加好友二维码
+ko: 공식 LINE 친구 추가용 QR 코드
+
+= スマートフォンのカメラで読み取ってください
+en: Scan with your phone camera
+zh: 请用手机相机扫描
+ko: 스마트폰 카메라로 읽어 주세요
+
+= バックスピントーキョー
+en: Backspin Tokyo
+zh: Backspin Tokyo
+ko: 백스핀 도쿄
+
+= 〒273-0031 千葉県船橋市西船4-16-1 幸伸ビル1F
+en: 1F Koshin Bldg., 4-16-1 Nishifuna, Funabashi, Chiba 273-0031, Japan
+zh: 〒273-0031 千叶县船桥市西船4-16-1 幸伸大楼1楼
+ko: 〒273-0031 지바현 후나바시시 니시후나 4-16-1 고신 빌딩 1층
+
+= JR・東京メトロ東西線「西船橋駅」徒歩5分
+en: 5 min walk from Nishi-Funabashi Station (JR / Tokyo Metro Tozai Line)
+zh: JR·东京地铁东西线“西船桥站”步行5分钟
+ko: JR·도쿄메트로 도자이선 ‘니시후나바시역’ 도보 5분
+
+= 京成本線「京成西船駅」徒歩2〜3分
+en: 2–3 min walk from Keisei-Nishifuna Station (Keisei Main Line)
+zh: 京成本线“京成西船站”步行2–3分钟
+ko: 게이세이 본선 ‘게이세이니시후나역’ 도보 2~3분
+
+= TEL：
+en: TEL:
+zh: TEL：
+ko: TEL:
+
+= MAIL：backspin.tokyo@gmail.com
+en: MAIL: backspin.tokyo@gmail.com
+zh: MAIL：backspin.tokyo@gmail.com
+ko: MAIL: backspin.tokyo@gmail.com
+
+= 公式LINE：
+en: LINE:
+zh: 官方LINE：
+ko: 공식 LINE:
+
+= 友だち追加はこちら ↗
+en: Add friend ↗
+zh: 点此添加好友 ↗
+ko: 친구 추가는 여기 ↗
+
+= 業務提携：
+en: Partner:
+zh: 业务合作：
+ko: 업무 제휴:
+
+= 礼武卓球道場（RÊVE DOJO）公式サイト ↗
+en: RÊVE DOJO official site ↗
+zh: 礼武乒乓球道场（RÊVE DOJO）官方网站 ↗
+ko: 레이부 탁구 도장(RÊVE DOJO) 공식 사이트 ↗
+
+= オンライン予約
+en: Online booking
+zh: 在线预约
+ko: 온라인 예약
+
+= プライベートレッスン
+en: Private Lesson
+zh: 私教课
+ko: 프라이빗 레슨
+
+= ¥4,400〜 / 50分
+en: From ¥4,400 / 50 min
+zh: ¥4,400起 / 50分钟
+ko: ¥4,400~ / 50분
+
+= 担当インストラクターが課題を素早く見抜き、目標に合わせた練習メニューを作成。2名での同時受講も可能です。（奈津子店長 ¥5,500 / ヨッシー ¥4,400）
+en: Your instructor quickly spots what to work on and builds a practice plan around your goals. Two people can take a lesson together. (Natsuko ¥5,500 / Yossy ¥4,400)
+zh: 教练会迅速找出您的课题，并根据目标制定训练内容。也可2人同时上课。（奈津子店长 ¥5,500 / Yossy ¥4,400）
+ko: 담당 강사가 과제를 빠르게 파악해 목표에 맞는 연습 메뉴를 만듭니다. 2명 동시 수강도 가능합니다. (나쓰코 점장 ¥5,500 / 요시 ¥4,400)
+
+= 少人数制グループレッスン
+en: Small-Group Lesson
+zh: 小班课程
+ko: 소수 정원 그룹 레슨
+
+= ¥2,750 / 1コマ
+en: ¥2,750 / session
+zh: ¥2,750 / 1节
+ko: ¥2,750 / 1회
+
+= 限定3名の少人数制。「初心者〜中級者教室」「異質対策教室」「テーマ教室」など目的に合わせてしっかり指導を受けられます。
+en: Limited to 3 people. Choose by goal, such as beginner to intermediate, playing against special rubbers, or theme classes, and get proper coaching.
+zh: 限3人小班。可根据目的选择“初学者至中级班”“异质胶皮对策班”“主题班”等，接受扎实的指导。
+ko: 3명 한정 소수 정원제. ‘초보자~중급자 교실’ ‘이질 러버 대책 교실’ ‘테마 교실’ 등 목적에 맞춰 제대로 지도받을 수 있습니다.
+
+= レンタルテーブル＆マシン
+en: Table and Robot Rental
+zh: 球台与发球机租赁
+ko: 대여 탁구대 & 머신
+
+= ¥1,100〜 / 1時間
+en: From ¥1,100 / hour
+zh: ¥1,100起 / 1小时
+ko: ¥1,100~ / 1시간
+
+= レンタルテーブル ¥1,100/1h、マシン利用 ¥1,650/1h。ご友人やご家族との練習、サーブ練習に。レッスン空き時間は2台とも利用可。
+en: Table ¥1,100/h, robot ¥1,650/h. Great for practice with friends or family, or serve practice. Both tables are available when no lessons are on.
+zh: 球台租赁 ¥1,100/小时，发球机 ¥1,650/小时。适合与朋友、家人练习或练发球。无课时段2张球台均可使用。
+ko: 대여 탁구대 ¥1,100/1시간, 머신 이용 ¥1,650/1시간. 친구나 가족과의 연습, 서브 연습에. 레슨이 없는 시간에는 2대 모두 이용 가능.
+
+= キッズ教室（部活応援）
+en: Kids Class (school-club support)
+zh: 儿童班（社团活动支援）
+ko: 키즈 교실(부활동 응원)
+
+= 月謝 ¥6,600（月4回）
+en: ¥6,600 / month (4 sessions)
+zh: 月费 ¥6,600（每月4次）
+ko: 월 수강료 ¥6,600(월 4회)
+
+= 小学生〜中学生対象。火曜 16:30〜/17:30〜、日曜 14:30〜15:20開催。部活で差がつく基礎を指導。（入会金 ¥11,000 / 有料体験あり）
+en: For elementary and junior high students. Tuesdays from 16:30 or 17:30, Sundays 14:30–15:20. Fundamentals that make a difference in school clubs. (Enrollment ¥11,000 / paid trial available)
+zh: 面向小学生至初中生。周二 16:30起／17:30起，周日 14:30–15:20。传授在社团活动中拉开差距的基础。（入会费 ¥11,000 / 可付费体验）
+ko: 초등학생~중학생 대상. 화요일 16:30~/17:30~, 일요일 14:30~15:20 개최. 부활동에서 차이를 만드는 기초를 지도. (입회금 ¥11,000 / 유료 체험 있음)
+
+= 初心者コース
+en: Beginner Course
+zh: 初学者课程
+ko: 초보자 코스
+
+= 月謝 ¥6,600
+en: ¥6,600 / month
+zh: 月费 ¥6,600
+ko: 월 수강료 ¥6,600
+
+= ラケットの握り方から丁寧に指導。最初はコーチやマシンを相手に打つため未経験でも安心。（入会金 ¥5,500 / 年会費 ¥5,500）
+en: We start from how to hold the racket. You first hit with a coach or a robot, so no experience is needed. (Enrollment ¥5,500 / annual fee ¥5,500)
+zh: 从握拍方法开始细心指导。起初以教练或发球机为对手练习，零基础也可放心。（入会费 ¥5,500 / 年费 ¥5,500）
+ko: 라켓 잡는 법부터 정성껏 지도. 처음에는 코치나 머신을 상대로 치기 때문에 미경험자도 안심. (입회금 ¥5,500 / 연회비 ¥5,500)
+
+= 健康サークル
+en: Wellness Circle
+zh: 健康社团
+ko: 건강 서클
+
+= 月謝 ¥4,500（月3回）
+en: ¥4,500 / month (3 sessions)
+zh: 月费 ¥4,500（每月3次）
+ko: 월 수강료 ¥4,500(월 3회)
+
+= 60代〜70代の大人世代や温泉卓球しか経験がない方も大歓迎。皆で楽しくラリーできるようコーチが補助します。（入会金 ¥5,500 / 年会費 ¥5,500）
+en: People in their 60s and 70s, and those who have only played at hot-spring resorts, are very welcome. Coaches help everyone enjoy rallying together. (Enrollment ¥5,500 / annual fee ¥5,500)
+zh: 非常欢迎60至70多岁的成年人，以及只在温泉旅馆打过乒乓球的朋友。教练会从旁协助，让大家都能愉快对打。（入会费 ¥5,500 / 年费 ¥5,500）
+ko: 60~70대 어른 세대나 온천 탁구 경험만 있는 분도 대환영. 다 함께 즐겁게 랠리할 수 있도록 코치가 보조합니다. (입회금 ¥5,500 / 연회비 ¥5,500)
+
+= 卓球BAR・光る卓球・貸切
+en: Ping Pong Bar, Glow Table Tennis, Private Hire
+zh: 乒乓球吧·发光乒乓球·包场
+ko: 탁구 BAR·빛나는 탁구·대관
+
+= 貸切相談可
+en: Private hire on request
+zh: 可咨询包场
+ko: 대관 상담 가능
+
+= お酒を飲みながら卓球や「光る卓球」を楽しめる夜の営業。忘年会・新年会・二次会・撮影利用など最大30名まで対応。
+en: Night opening for table tennis and glow table tennis over drinks. Year-end and New Year parties, after-parties, filming and more, for up to 30 people.
+zh: 夜间营业，可边喝酒边打乒乓球或“发光乒乓球”。忘年会、新年会、续摊、拍摄等最多可容纳30人。
+ko: 술을 마시며 탁구와 ‘빛나는 탁구’를 즐길 수 있는 밤 영업. 송년회·신년회·2차·촬영 이용 등 최대 30명까지 대응.
+
+= ご予約・詳細へ →
+en: Book or learn more →
+zh: 预约·详情 →
+ko: 예약·자세히 →
+
+= 大人のための真面目な卓球レッスン＆健康サークル。
+en: Serious table tennis lessons and a wellness circle for adults.
+zh: 为成年人打造的认真乒乓球课程＆健康社团。
+ko: 어른을 위한 진지한 탁구 레슨 & 건강 서클.
+
+= 60代・70代の大人世代から初心者まで、経験豊富なコーチが一人ひとりに合わせて丁寧に指導。明るく開放的な空間で、健康づくりと上達の喜びを両立できます。
+en: From people in their 60s and 70s to beginners, experienced coaches teach each person with care. In a bright, open space, enjoy both better health and the joy of getting better.
+zh: 从60、70多岁的成年人到初学者，经验丰富的教练因人而异细心指导。在明亮开阔的空间里，兼顾健康与进步的喜悦。
+ko: 60~70대 어른 세대부터 초보자까지 경험 풍부한 코치가 한 사람 한 사람에 맞춰 정성껏 지도. 밝고 개방적인 공간에서 건강 만들기와 실력 향상의 기쁨을 함께 누릴 수 있습니다.
