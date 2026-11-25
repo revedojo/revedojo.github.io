@@ -234,7 +234,7 @@
     <div class="headrow">
       <div><p class="kicker">予約 — Reservation</p><h2>オンライン予約</h2>
         <p class="muted" style="max-width:640px;margin:16px 0 0">個人レッスン・各種教室・体験のお申し込みは、公式予約システムより24時間受け付けています。</p></div>
-      <a class="btn btn-ink" href="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">予約ページを別タブで開く →</a>
+      <a class="btn btn-ink" href="https://revedojo.resv.jp/" data-new="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">予約ページを別タブで開く →</a>
     </div>
     <div class="steps">
       <div><span class="seal">一</span><span class="tx"><b>メニューを選ぶ</b>個人レッスン・教室・体験から</span></div>
@@ -242,10 +242,10 @@
       <div><span class="seal">三</span><span class="tx"><b>当日、道場へ</b>葛西駅 中央改札口より徒歩7分</span></div>
     </div>
     <div class="booking">
-      <div class="bar"><a href="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">RÊVE DOJO 公式予約システム <span aria-hidden="true">↗</span></a></div>
-      <div class="frame">
-        <p><span>予約画面が表示されない場合は、別タブでお開きください。</span><a class="btn btn-ink" href="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">予約ページを開く</a></p>
-        <iframe src="https://revedojo.github.io/yoyaku/" title="礼武道場 公式オンライン予約" loading="lazy"></iframe>
+      <div class="bar"><a href="https://revedojo.resv.jp/" data-new="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">RÊVE DOJO 公式予約システム <span aria-hidden="true">↗</span></a></div>
+      <div class="frame pre">
+        <p><span class="pre-t">ご予約は、下のボタンから予約サイト（別ページ）でお手続きください。</span><span class="post-t">予約画面が表示されない場合は、別タブでお開きください。</span><a class="btn btn-ink" href="https://revedojo.resv.jp/" data-new="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">予約ページを開く</a></p>
+        <iframe src="about:blank" data-src="https://revedojo.github.io/yoyaku/" title="礼武道場 公式オンライン予約" loading="lazy"></iframe>
       </div>
     </div>
   </div>
@@ -256,11 +256,11 @@
     <div>
       <p class="kicker">提携店 — Partner</p>
       <h2 class="partner-h">BACKSPIN TOKYO<small>バックスピントーキョー｜西船橋</small></h2>
-      <p class="muted" style="margin:14px 0 0;max-width:620px">礼武道場と業務提携する、西船橋駅徒歩5分の卓球スペース。昼は少人数制のスクールとレンタル、夜は卓球BARと光る卓球。店長は原田奈津子コーチです。ご予約は礼武道場と同じ予約サイトからどうぞ。</p>
+      <p class="muted" style="margin:14px 0 0;max-width:620px">礼武道場と業務提携する、西船橋駅徒歩5分の卓球スペース。昼は少人数制のスクールとレンタル、夜は卓球BARと光る卓球。店長は原田奈津子コーチです。<span class="sw-pre">ご予約はバックスピントーキョーの予約サイトからどうぞ。</span><span class="sw-post">ご予約は礼武道場と同じ予約サイトからどうぞ。</span></p>
     </div>
     <div class="partner-acts">
       <a class="btn btn-ghost" href="https://backspin-tokyo.com/" target="_blank" rel="noopener noreferrer">バックスピントーキョーのサイトへ ↗</a>
-      <a class="btn btn-red" href="#reserve">予約サイトを見る</a>
+      <a class="btn btn-red" href="https://backspin-tokyo.resv.jp/" data-new="#reserve" target="_blank" rel="noopener noreferrer">予約サイトを見る</a>
     </div>
   </div>
 </section>
@@ -407,5 +407,6 @@ document.addEventListener('click',e=>{const a=e.target.closest('[data-prefill]')
 cf.querySelectorAll('input,textarea').forEach(f=>f.addEventListener('input',()=>f.removeAttribute('aria-invalid')));
 }
 </script>
+<script>(function(){if(Date.now()<Date.parse("2027-01-01T00:00:00+09:00"))return;document.querySelectorAll("[data-new]").forEach(function(a){var u=a.getAttribute("data-new");a.href=u;if(u.charAt(0)=="#")a.removeAttribute("target")});document.querySelectorAll("iframe[data-src]").forEach(function(f){f.src=f.getAttribute("data-src")});document.documentElement.classList.add("sw-new");document.querySelectorAll(".frame.pre").forEach(function(f){f.classList.remove("pre")});})();</script>
 </body>
 </html>

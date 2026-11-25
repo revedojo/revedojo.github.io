@@ -234,7 +234,7 @@
     <div class="headrow">
       <div><p class="kicker">예약 — Reservation</p><h2>온라인 예약</h2>
         <p class="muted" style="max-width:640px;margin:16px 0 0">개인 레슨·각종 교실·체험 신청은 공식 예약 시스템에서 24시간 접수합니다(일본어 페이지).</p></div>
-      <a class="btn btn-ink" href="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">예약 페이지를 새 탭에서 열기 →</a>
+      <a class="btn btn-ink" href="https://revedojo.resv.jp/" data-new="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">예약 페이지를 새 탭에서 열기 →</a>
     </div>
     <div class="steps">
       <div><span class="seal">一</span><span class="tx"><b>메뉴 선택</b>개인 레슨·교실·체험 중에서</span></div>
@@ -242,10 +242,10 @@
       <div><span class="seal">三</span><span class="tx"><b>당일 도장으로</b>가사이역 중앙 개찰구에서 도보 7분</span></div>
     </div>
     <div class="booking">
-      <div class="bar"><a href="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">RÊVE DOJO 공식 예약 시스템 <span aria-hidden="true">↗</span></a></div>
-      <div class="frame">
-        <p><span>예약 화면이 표시되지 않으면 새 탭에서 열어 주세요.</span><a class="btn btn-ink" href="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">예약 페이지 열기</a></p>
-        <iframe src="https://revedojo.github.io/yoyaku/" title="레이부 도장 공식 온라인 예약" loading="lazy"></iframe>
+      <div class="bar"><a href="https://revedojo.resv.jp/" data-new="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">RÊVE DOJO 공식 예약 시스템 <span aria-hidden="true">↗</span></a></div>
+      <div class="frame pre">
+        <p><span class="pre-t">예약은 아래 버튼을 눌러 예약 사이트(별도 페이지)에서 진행해 주세요.</span><span class="post-t">예약 화면이 표시되지 않으면 새 탭에서 열어 주세요.</span><a class="btn btn-ink" href="https://revedojo.resv.jp/" data-new="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">예약 페이지 열기</a></p>
+        <iframe src="about:blank" data-src="https://revedojo.github.io/yoyaku/" title="레이부 도장 공식 온라인 예약" loading="lazy"></iframe>
       </div>
     </div>
   </div>
@@ -256,11 +256,11 @@
     <div>
       <p class="kicker">제휴점 — Partner</p>
       <h2 class="partner-h">BACKSPIN TOKYO<small>백스핀 도쿄｜니시후나바시</small></h2>
-      <p class="muted" style="margin:14px 0 0;max-width:620px">레이부 도장과 업무 제휴한, 니시후나바시역 도보 5분의 탁구 공간. 낮에는 소수 정원 스쿨과 대여, 밤에는 탁구 BAR와 빛나는 탁구. 점장은 하라다 나쓰코 코치입니다. 예약은 레이부 도장과 같은 예약 사이트에서 하세요.</p>
+      <p class="muted" style="margin:14px 0 0;max-width:620px">레이부 도장과 업무 제휴한, 니시후나바시역 도보 5분의 탁구 공간. 낮에는 소수 정원 스쿨과 대여, 밤에는 탁구 BAR와 빛나는 탁구. 점장은 하라다 나쓰코 코치입니다.<span class="sw-pre"> 예약은 백스핀 도쿄 예약 사이트에서 하세요.</span><span class="sw-post"> 예약은 레이부 도장과 같은 예약 사이트에서 하세요.</span></p>
     </div>
     <div class="partner-acts">
       <a class="btn btn-ghost" href="https://backspin-tokyo.com/ko/" target="_blank" rel="noopener noreferrer">백스핀 도쿄 사이트로 ↗</a>
-      <a class="btn btn-red" href="#reserve">예약 사이트 보기</a>
+      <a class="btn btn-red" href="https://backspin-tokyo.resv.jp/" data-new="#reserve" target="_blank" rel="noopener noreferrer">예약 사이트 보기</a>
     </div>
   </div>
 </section>
@@ -407,5 +407,6 @@ document.addEventListener('click',e=>{const a=e.target.closest('[data-prefill]')
 cf.querySelectorAll('input,textarea').forEach(f=>f.addEventListener('input',()=>f.removeAttribute('aria-invalid')));
 }
 </script>
+<script>(function(){if(Date.now()<Date.parse("2027-01-01T00:00:00+09:00"))return;document.querySelectorAll("[data-new]").forEach(function(a){var u=a.getAttribute("data-new");a.href=u;if(u.charAt(0)=="#")a.removeAttribute("target")});document.querySelectorAll("iframe[data-src]").forEach(function(f){f.src=f.getAttribute("data-src")});document.documentElement.classList.add("sw-new");document.querySelectorAll(".frame.pre").forEach(function(f){f.classList.remove("pre")});})();</script>
 </body>
 </html>

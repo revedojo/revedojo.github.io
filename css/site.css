@@ -312,3 +312,6 @@ footer .fwrap{padding-top:44px;padding-bottom:clamp(70px,9vw,120px)}
 @media(max-width:520px){.tlist dd{font-size:23px}}
 .card .prices dt{white-space:nowrap}
 @media(max-width:400px){.card .prices dd{font-size:22px}}
+
+.booking .frame.pre{height:auto;min-height:240px}.booking .frame.pre iframe,.booking .frame:not(.pre) .pre-t,.booking .frame.pre .post-t{display:none}
+.sw-post{display:none}html.sw-new .sw-pre{display:none}html.sw-new .sw-post{display:inline}

@@ -234,7 +234,7 @@
     <div class="headrow">
       <div><p class="kicker">Reservation</p><h2>Online Booking</h2>
         <p class="muted" style="max-width:640px;margin:16px 0 0">Private lessons, classes and trials can be booked 24 hours a day through our official booking system (in Japanese).</p></div>
-      <a class="btn btn-ink" href="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">Open the booking page in a new tab →</a>
+      <a class="btn btn-ink" href="https://revedojo.resv.jp/" data-new="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">Open the booking page in a new tab →</a>
     </div>
     <div class="steps">
       <div><span class="seal">一</span><span class="tx"><b>Choose a menu</b>Private lesson, class or trial</span></div>
@@ -242,10 +242,10 @@
       <div><span class="seal">三</span><span class="tx"><b>Come to the dojo</b>7 minutes on foot from Kasai Station central gate</span></div>
     </div>
     <div class="booking">
-      <div class="bar"><a href="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">RÊVE DOJO official booking system <span aria-hidden="true">↗</span></a></div>
-      <div class="frame">
-        <p><span>If the booking screen does not appear, open it in a new tab.</span><a class="btn btn-ink" href="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">Open booking page</a></p>
-        <iframe src="https://revedojo.github.io/yoyaku/" title="RÊVE DOJO official online booking" loading="lazy"></iframe>
+      <div class="bar"><a href="https://revedojo.resv.jp/" data-new="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">RÊVE DOJO official booking system <span aria-hidden="true">↗</span></a></div>
+      <div class="frame pre">
+        <p><span class="pre-t">Please book on our booking site (opens in a new page) using the button below.</span><span class="post-t">If the booking screen does not appear, open it in a new tab.</span><a class="btn btn-ink" href="https://revedojo.resv.jp/" data-new="https://revedojo.github.io/yoyaku/" target="_blank" rel="noopener noreferrer">Open booking page</a></p>
+        <iframe src="about:blank" data-src="https://revedojo.github.io/yoyaku/" title="RÊVE DOJO official online booking" loading="lazy"></iframe>
       </div>
     </div>
   </div>
@@ -256,11 +256,11 @@
     <div>
       <p class="kicker">Partner</p>
       <h2 class="partner-h">BACKSPIN TOKYO<small>Backspin Tokyo | Nishi-Funabashi</small></h2>
-      <p class="muted" style="margin:14px 0 0;max-width:620px">Our partner table tennis space, 5 minutes on foot from Nishi-Funabashi Station. Small-group school and table rental by day, a ping pong bar and glow-in-the-dark table tennis by night. Managed by coach Natsuko Harada. Book through the same booking site as RÊVE DOJO.</p>
+      <p class="muted" style="margin:14px 0 0;max-width:620px">Our partner table tennis space, 5 minutes on foot from Nishi-Funabashi Station. Small-group school and table rental by day, a ping pong bar and glow-in-the-dark table tennis by night. Managed by coach Natsuko Harada.<span class="sw-pre"> Book through the Backspin Tokyo booking site.</span><span class="sw-post"> Book through the same booking site as RÊVE DOJO.</span></p>
     </div>
     <div class="partner-acts">
       <a class="btn btn-ghost" href="https://backspin-tokyo.com/en/" target="_blank" rel="noopener noreferrer">Visit Backspin Tokyo ↗</a>
-      <a class="btn btn-red" href="#reserve">See booking site</a>
+      <a class="btn btn-red" href="https://backspin-tokyo.resv.jp/" data-new="#reserve" target="_blank" rel="noopener noreferrer">See booking site</a>
     </div>
   </div>
 </section>
@@ -407,5 +407,6 @@ document.addEventListener('click',e=>{const a=e.target.closest('[data-prefill]')
 cf.querySelectorAll('input,textarea').forEach(f=>f.addEventListener('input',()=>f.removeAttribute('aria-invalid')));
 }
 </script>
+<script>(function(){if(Date.now()<Date.parse("2027-01-01T00:00:00+09:00"))return;document.querySelectorAll("[data-new]").forEach(function(a){var u=a.getAttribute("data-new");a.href=u;if(u.charAt(0)=="#")a.removeAttribute("target")});document.querySelectorAll("iframe[data-src]").forEach(function(f){f.src=f.getAttribute("data-src")});document.documentElement.classList.add("sw-new");document.querySelectorAll(".frame.pre").forEach(function(f){f.classList.remove("pre")});})();</script>
 </body>
 </html>

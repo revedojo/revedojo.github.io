@@ -693,10 +693,25 @@ en: Backspin Tokyo | Nishi-Funabashi
 zh: Backspin Tokyo｜西船桥
 ko: 백스핀 도쿄｜니시후나바시
 
-= 礼武道場と業務提携する、西船橋駅徒歩5分の卓球スペース。昼は少人数制のスクールとレンタル、夜は卓球BARと光る卓球。店長は原田奈津子コーチです。ご予約は礼武道場と同じ予約サイトからどうぞ。
-en: Our partner table tennis space, 5 minutes on foot from Nishi-Funabashi Station. Small-group school and table rental by day, a ping pong bar and glow-in-the-dark table tennis by night. Managed by coach Natsuko Harada. Book through the same booking site as RÊVE DOJO.
-zh: 与礼武道场业务合作的乒乓球空间，距西船桥站步行5分钟。白天提供小班课程与球台租赁，晚上是乒乓球吧与发光乒乓球。店长为原田奈津子教练。预约请使用与礼武道场相同的预约网站。
-ko: 레이부 도장과 업무 제휴한, 니시후나바시역 도보 5분의 탁구 공간. 낮에는 소수 정원 스쿨과 대여, 밤에는 탁구 BAR와 빛나는 탁구. 점장은 하라다 나쓰코 코치입니다. 예약은 레이부 도장과 같은 예약 사이트에서 하세요.
+= 礼武道場と業務提携する、西船橋駅徒歩5分の卓球スペース。昼は少人数制のスクールとレンタル、夜は卓球BARと光る卓球。店長は原田奈津子コーチです。
+en: Our partner table tennis space, 5 minutes on foot from Nishi-Funabashi Station. Small-group school and table rental by day, a ping pong bar and glow-in-the-dark table tennis by night. Managed by coach Natsuko Harada.
+zh: 与礼武道场业务合作的乒乓球空间，距西船桥站步行5分钟。白天提供小班课程与球台租赁，晚上是乒乓球吧与发光乒乓球。店长为原田奈津子教练。
+ko: 레이부 도장과 업무 제휴한, 니시후나바시역 도보 5분의 탁구 공간. 낮에는 소수 정원 스쿨과 대여, 밤에는 탁구 BAR와 빛나는 탁구. 점장은 하라다 나쓰코 코치입니다.
+
+= ご予約はバックスピントーキョーの予約サイトからどうぞ。
+en:  Book through the Backspin Tokyo booking site.
+zh: 预约请使用 Backspin Tokyo 的预约网站。
+ko:  예약은 백스핀 도쿄 예약 사이트에서 하세요.
+
+= ご予約は礼武道場と同じ予約サイトからどうぞ。
+en:  Book through the same booking site as RÊVE DOJO.
+zh: 预约请使用与礼武道场相同的预约网站。
+ko:  예약은 레이부 도장과 같은 예약 사이트에서 하세요.
+
+= ご予約は、下のボタンから予約サイト（別ページ）でお手続きください。
+en: Please book on our booking site (opens in a new page) using the button below.
+zh: 请点击下方按钮，在预约网站（新页面）办理预约。
+ko: 예약은 아래 버튼을 눌러 예약 사이트(별도 페이지)에서 진행해 주세요.
 
 = バックスピントーキョーのサイトへ ↗
 en: Visit Backspin Tokyo ↗
